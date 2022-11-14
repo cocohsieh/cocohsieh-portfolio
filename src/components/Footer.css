@@ -1,0 +1,11 @@
+.footer {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #3A362E;
+}
+
+.github-icon {
+    margin: 0 20px;
+}

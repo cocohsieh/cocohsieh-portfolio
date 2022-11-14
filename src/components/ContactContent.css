@@ -1,0 +1,14 @@
+.contact-container {
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 6rem;
+    background: #000;
+}
+
+.contact-info {
+    line-height: 1.8rem;
+
+}
