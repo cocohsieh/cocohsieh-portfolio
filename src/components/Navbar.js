@@ -27,14 +27,14 @@ const Navbar = () => {
     <>
       <div className={color ? "header header-bg" : "header"}>
         {/* 設定連結到首頁 */}
-        <Link to={"/coco"}>
+        <Link to={"/cocohsieh-portfolio"}>
           <h1>Portfolio</h1>
         </Link>
         <div>
           {/* <ul className="links"> */}
           <ul className={click ? "links active" : "links"}>
             <li>
-              <Link to={"/coco"}>Home </Link>
+              <Link to={"/cocohsieh-portfolio"}>Home </Link>
             </li>
             <li>
               <Link to={"/project"}>Project </Link>
