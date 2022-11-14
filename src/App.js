@@ -11,7 +11,7 @@ function App() {
     <>
       {/* 建立路由 */}
       <Routes>
-        <Route path="/coco" element={<Home />} />
+        <Route path="/cocohsieh-portfolio" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/project" element={<Project />} />
         <Route path="/contact" element={<Contact />} />
