@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cocohsieh-portfolio/static/css/main.0c0920db.css",
+    "main.js": "/cocohsieh-portfolio/static/js/main.5c4901b9.js",
+    "static/media/projectImg6.png": "/cocohsieh-portfolio/static/media/projectImg6.fafa0c17853688c09707.png",
+    "static/media/projectImg7.png": "/cocohsieh-portfolio/static/media/projectImg7.e87f774d61e214613f07.png",
+    "static/media/ebook.png": "/cocohsieh-portfolio/static/media/ebook.a74592526f5b51310e40.png",
+    "static/media/projectImg8.png": "/cocohsieh-portfolio/static/media/projectImg8.1e7d06c28037d89c9fb0.png",
+    "static/media/projectImg2.png": "/cocohsieh-portfolio/static/media/projectImg2.c5a9f3b4c95517a511cb.png",
+    "static/media/hero.avif": "/cocohsieh-portfolio/static/media/hero.1cc408e7404e4011ac43.avif",
+    "static/media/projectImg3.png": "/cocohsieh-portfolio/static/media/projectImg3.3158e94704d107df937d.png",
+    "static/media/projectImg5.png": "/cocohsieh-portfolio/static/media/projectImg5.18a7ef33e2e3664650a6.png",
+    "static/media/projectImg1.png": "/cocohsieh-portfolio/static/media/projectImg1.c7af6a638e31abdf68e2.png",
+    "static/media/projectImg4.png": "/cocohsieh-portfolio/static/media/projectImg4.86ad1f7eb88a27241226.png",
+    "index.html": "/cocohsieh-portfolio/index.html",
+    "main.0c0920db.css.map": "/cocohsieh-portfolio/static/css/main.0c0920db.css.map",
+    "main.5c4901b9.js.map": "/cocohsieh-portfolio/static/js/main.5c4901b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c0920db.css",
+    "static/js/main.5c4901b9.js"
+  ]
+}
