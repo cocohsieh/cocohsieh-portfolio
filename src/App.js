@@ -6,6 +6,10 @@ import Project from "./routes/Project";
 import Contact from "./routes/Contact";
 import { Route, Routes } from "react-router-dom"; //引入路由
 
+import ReactGA from "react-ga4";
+ReactGA.initialize("G-2JQ0JPCXN9");
+ReactGA.send("pageview");
+
 function App() {
   return (
     <>
